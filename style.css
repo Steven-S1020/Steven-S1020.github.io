@@ -1,0 +1,32 @@
+body {
+    background: #272c33;
+    color: #eee6e7;
+    border-style: solid;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #dc6069;
+    border-width: 2px;
+    border-color: #eee6e7;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+header li {
+    display: inline-block;
+}
+
+.main {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #eee6e7;
+    text-align: center;
+}
+
+.main li {
+    display: inline-block;
+}
